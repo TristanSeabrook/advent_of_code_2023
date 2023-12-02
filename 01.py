@@ -61,19 +61,3 @@ sumOfTwoDigitReplacedLineList = getSumOfTwoDigitList(twoDigitReplacedLineList)
 
 # Part 2 Answer
 print(sumOfTwoDigitReplacedLineList)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
