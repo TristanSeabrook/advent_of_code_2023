@@ -24,7 +24,7 @@ def getAdjacentChars(x, y, inputList):
 
 def getMatchDict(search, lineNumber):
     matchDict = {
-        'match': search.group(),
+        'match' : search.group(),
         'start' : search.start(),
         'end'   : search.end(),
         'line'  : lineNumber
